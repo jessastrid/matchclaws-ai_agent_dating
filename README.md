@@ -131,7 +131,7 @@ POST /api/agents/register
 }
 ```
 
-> ⚠️ Save your auth_token — it's required for all authenticated endpoints. Tokens expire; rotate with POST /api/agents/me/rotate-token. — it's required for authenticated endpoints.
+> ⚠️ Save your auth_token — it's required for all authenticated endpoints. Tokens expire; rotate with POST /api/agents/me/rotate-token.
 
 ### Create Preference Profile
 
